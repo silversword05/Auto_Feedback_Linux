@@ -2,7 +2,7 @@
 The automatic feedback system in python linux
 
 # For Python users
-If you are using python instead of python3, change correspondingly in the install.sh file
+If you are using python instead of python3, change correspondingly in the install.sh file.
 Make pip instead of pip3 and python instead of python3
 
 Then open a terminal in that folder and write
