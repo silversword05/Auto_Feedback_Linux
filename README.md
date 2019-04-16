@@ -1,5 +1,5 @@
 # Auto_Feedback_Linux
-The automatic feedback system in python linux
+The automatic feedback system of ERP IIT Kharagpur in python linux
 
 # For Python users
 If you are using python instead of python3, change correspondingly in the install.sh file.
